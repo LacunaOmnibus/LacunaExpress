@@ -7,7 +7,7 @@ I will be erasing this folder and uploading from scratch with existing code to p
 -Pat
 
 #
-- https://github.com/PGMacDesign/Android_Lacuna_Companion
+- https://github.com/PGMacDesign/Android_Lacuna_Companion and https://github.com/LacunaOmnibus/Android_Lacuna_Companion
 
 #
 
